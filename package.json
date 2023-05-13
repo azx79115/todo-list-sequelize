@@ -1,7 +1,7 @@
 {
   "name": "todo-sequelize",
   "version": "1.0.0",
-  "description": "",
+  "description": "![img.png](login.png)",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
